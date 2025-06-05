@@ -344,7 +344,7 @@ export const projects = [
       },
       {
         name: "Tanisha Garg",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQGt6UXQhSMmCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722318423232?e=1754524800&v=beta&t=pl3WTBgpa3C5o-8tnMEllj4QW2hNp4SnjYypCtQHTHc",
+        img: "https://ik.imagekit.io/ebyhx3fyc/WhatsApp%20Image%202024-07-27%20at%2013.48.18_92a67f77.jpg?updatedAt=1749121584190",
         linkedin: "https://www.linkedin.com/in/tanisha-garg-377461286/",
         github: "https://github.com/tanisha25garg",
       },
