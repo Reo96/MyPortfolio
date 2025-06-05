@@ -50,11 +50,6 @@ export const skills = [
           "https://mui.com/static/logo.png",
       },
       {
-        name: "Flutter",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png",
-      },
-      {
         name: "Tailwind CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
