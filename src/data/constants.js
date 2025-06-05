@@ -141,11 +141,11 @@ export const skills = [
       },
       {
         name: "Power BI",
-        image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg",
+        image: "https://img.icons8.com/color/480/power-bi.png",
       },
       {
         name: "Google Sheets",
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Sheets_Logo.svg",
+        image: "https://img.icons8.com/color/480/google-sheets.png",
       },
       {
         name: "SQL",
@@ -192,7 +192,7 @@ export const skills = [
       {
         name: "Google Colab",///
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://colab.research.google.com/img/colab_favicon_256px.png",
       },
       {
         name: "Postman",
