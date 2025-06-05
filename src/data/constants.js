@@ -357,7 +357,7 @@ export const projects = [
     description:
       "Developed a system for dynamically generating seating arrangements and attendance sheets for exams, optimizing room usage and reducing manual effort by 80%.Implemented Python scripts to fetch student roll numbers and names from a database, generating personalized attendance sheets.",
     image:///
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://ik.imagekit.io/ebyhx3fyc/ChatGPT%20Image%20Apr%202,%202025,%2012_38_01%20AM.png?updatedAt=1749122230955",
     tags: [
       "Python Flask",
       "Data Analysis",
