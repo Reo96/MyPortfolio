@@ -9,10 +9,10 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Reo96",
   resume:
-    "https://drive.google.com/file/d/19bU8WS-0gb2zE6YQUrptENAKChovdTvL/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rachit-mudgil-16880525a/",
-  twitter: "https://www.instagram.com/mudgil_boy_96",//
-  insta: "https://www.instagram.com/mudgil_boy_96",
+    "https://drive.google.com/file/d/1XH1fqDLEMdrc2JsDxfUjiwDQY7p6IVZN/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/rachit-mudgil-93329927b/",
+  twitter: "https://www.instagram.com/rachit_mudgil/",//
+  insta: "https://www.instagram.com/rachit_mudgil/",
   facebook: "https://www.facebook.com/rachit.mudgal.56/",
 };
 
@@ -377,4 +377,5 @@ export const projects = [
     webapp: "https://todos-0a2w.onrender.com/",
   },
 ];
+
 
