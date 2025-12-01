@@ -226,24 +226,18 @@ export const experiences = [
   {
     id: 1,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAsVBMVEUAAAD/////5gBwcHD5+fk6Ojr/7wBiYmL/7QD/6gDv7/Cjo6M6NQD/6QBzc3OysrPS0tK4uLjZxACGeQDGswBrYADr1ACyoQCdjgBLRAAgHQD44ACJfADgygCjkwAZGRlISEhXV1fHx8csLCzg4OBAOQCQggCrmgBlWwAzLwAuKgBfVQDDsAD/+AApJQCBdABWTgAdGgDx2QDOugAiIiKEhISRkZGoqKgyMjOYmJhSUlJ3n8j2AAADy0lEQVR4nO3baVviMBSGYUAorogL6qCyuM2M2zjj7v//YWMb0LYnbdNCW0qe+2OJNXmvc0gXrdUAAAAAAAAAAAAAAAAAwKe3e1n2FBbL5WHDcTbLnsUiuTpw1hoNMvnSe3RWtxoNMpna/HnslkiDTKauTr8CIRNXb39V9QyZKP6eIRNXsGfIpPYr3DO2Z/Jb0zN2Z3Ki7RmLM4nsGVsziesZOzOJ7xkLM0nsGdsyuTboGbsy2TPqGYsyubk17BlbMrkemPeMHZmk6xkLMrm5XUvXM56ttdW7JX1GfZ++Zz7TcJzG7uHej7Inn4u0PePFcbB/1OuXPfOcpOqZJS8OT4qeWfriUP7sGgViQ3EoRj1jSXF47gf/EkrEnuJQPnsmrkRsKg7lIaZnbCsOTz+yZ+wrDkXfM1YWh/LZM044EFuLw9M/CvWMxcWhBHvG6uJQHm63pj1jfXF4/k57huKY8HqG4vjm9oxDcXzrD47v7igOn5PT48cBxeHzcHJT9hQAAAAAAABQLcPOSqzOkzuqJUZ1Ribn0o1afK16gq43TPOBPNeOHHRe8HLmIjGT+tgd9iyPv4RPNZRjNopf0BwkZ7LujVtPLhRZJs3ClzMXyZnUn91xH/L4e/BM53JEp4wVzc4gE1UQZ0mFIgdclLCeeTDJZNsdmPRtoTlRq5wlzcwkE7V7bMjj/hN1xac75axodkaZqP24KY6/fp9nFJ9YpRhlUm+7Qztxy5Zl8h71KxeeWSZqP74Qx7/aYxzxI5Vklom6QNP0x3ByGhlXu8RFzcgwk6j9eFIobfFBt8Q1zUpmsq7TVF+nMit1QyPL5K3MRc1IZhI3+l2MPnMPr4jD28XMPh/pMtHsx+6FmbwZKmbyOUmZiayIru6mWdwzV0rKTDTfHCNZPBXeh11pM5Hju/JablzM3POSNhPdUxKRUiEzz0/qTHSPIUOeiph4jtJnIvfjkNekMyy69JnoHkOmO8Gi03xnagTuceWFfMBzWUuZG7P7neDjIflcwKeqDxx9smTyFjf0o6SFzFGWTGrb0SPPylnGXGXKJGY/Hmp/S7Vky+QlamA1X/yFZMskaj+u6Iu/kIyZjPXjKvriLyRjJvr9eAn2YVfWTDRvh93HBkshaya1V6NRlZQ5E81+XPjkcyIzaXck3cWpeH9c6efSfhnuiyfIRCITiUwkMpHIRCITiUwkmzL5aEfz/yWjTZnE8b+6IRPF/xiNTMiETMgkiEwkMpHIRCITiUwkMpHIRGrVm+YC/5OzEfrJ5ckEAAAAAAAAAAAAAAAAsNx/Yr1IA6piPWIAAAAASUVORK5CYII=",
-    role: "DevSecOps & Fullstack Engineering Intern",
+    role: "Software Developer Intern",
     company: "EY (Ernst & Young)",
-    date: "May 2025 - current",
-    desc: "Currently developing an application to automate testing of CIS benchmarks across various systems and environments, enhancing security compliance and audit efficiency. In this early phase of my internship, I've designed and implemented core features for benchmark scanning and reporting, applying DevSecOps principles using tools like Jenkins, Docker, and Node.js. I'm continuously expanding my knowledge of security automation and cloud-native workflows while collaborating with experienced professionals in a fast-paced environment.",
+    date: "May 2025 - July 2025",
+    desc: "Developed an application to automate testing of CIS benchmarks across various systems and environments, enhancing audit efficiency by automating configuration validation and risk scoring for 50+ enterprise systems. Also developed a data-driven dashboard using Chart.js to visualize real-time compliance levels and generate downloadable PDF audit reports.",
     skills: [
       "Docker",
-      "Jenkins",
-      "AWS",
-      "CI/CD",
-      "Nginx",
-      "JavaScript",
-      "Node Js",
+      "Bootstrap",
+      "Django",
       "MongoDB",
-      "TailwindCSS",
-      "Express Js",
-      "ReactJS",
+      "Email JS",
     ],/////////////////TBC
-    doc: "https://drive.google.com/file/d/1pghsfe7WLh-LUDccl7bU7v50w9jEP9uT/view?usp=drive_link",
+    doc: "https://drive.google.com/file/d/1ZVnHnBJ3Bb1Dm9xpWyGM0uEPLnFz5cC3/view?usp=drive_link",
   },
 ];
 
@@ -377,6 +371,7 @@ export const projects = [
     webapp: "https://todos-0a2w.onrender.com/",
   },
 ];
+
 
 
 
