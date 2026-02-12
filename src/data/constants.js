@@ -204,7 +204,7 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+  // {
   {
     id: 0,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAsVBMVEUAAAD/////5gBwcHD5+fk6Ojr/7wBiYmL/7QD/6gDv7/Cjo6M6NQD/6QBzc3OysrPS0tK4uLjZxACGeQDGswBrYADr1ACyoQCdjgBLRAAgHQD44ACJfADgygCjkwAZGRlISEhXV1fHx8csLCzg4OBAOQCQggCrmgBlWwAzLwAuKgBfVQDDsAD/+AApJQCBdABWTgAdGgDx2QDOugAiIiKEhISRkZGoqKgyMjOYmJhSUlJ3n8j2AAADy0lEQVR4nO3baVviMBSGYUAorogL6qCyuM2M2zjj7v//YWMb0LYnbdNCW0qe+2OJNXmvc0gXrdUAAAAAAAAAAAAAAAAAwKe3e1n2FBbL5WHDcTbLnsUiuTpw1hoNMvnSe3RWtxoNMpna/HnslkiDTKauTr8CIRNXb39V9QyZKP6eIRNXsGfIpPYr3DO2Z/Jb0zN2Z3Ki7RmLM4nsGVsziesZOzOJ7xkLM0nsGdsyuTboGbsy2TPqGYsyubk17BlbMrkemPeMHZmk6xkLMrm5XUvXM56ttdW7JX1GfZ++Zz7TcJzG7uHej7Inn4u0PePFcbB/1OuXPfOcpOqZJS8OT4qeWfriUP7sGgViQ3EoRj1jSXF47gf/EkrEnuJQPnsmrkRsKg7lIaZnbCsOTz+yZ+wrDkXfM1YWh/LZM044EFuLw9M/CvWMxcWhBHvG6uJQHm63pj1jfXF4/k57huKY8HqG4vjm9oxDcXzrD47v7igOn5PT48cBxeHzcHJT9hQAAAAAAABQLcPOSqzOkzuqJUZ1Ribn0o1afK16gq43TPOBPNeOHHRe8HLmIjGT+tgd9iyPv4RPNZRjNopf0BwkZ7LujVtPLhRZJs3ClzMXyZnUn91xH/L4e/BM53JEp4wVzc4gE1UQZ0mFIgdclLCeeTDJZNsdmPRtoTlRq5wlzcwkE7V7bMjj/hN1xac75axodkaZqP24KY6/fp9nFJ9YpRhlUm+7Qztxy5Zl8h71KxeeWSZqP74Qx7/aYxzxI5Vklom6QNP0x3ByGhlXu8RFzcgwk6j9eFIobfFBt8Q1zUpmsq7TVF+nMit1QyPL5K3MRc1IZhI3+l2MPnMPr4jD28XMPh/pMtHsx+6FmbwZKmbyOUmZiayIru6mWdwzV0rKTDTfHCNZPBXeh11pM5Hju/JablzM3POSNhPdUxKRUiEzz0/qTHSPIUOeiph4jtJnIvfjkNekMyy69JnoHkOmO8Gi03xnagTuceWFfMBzWUuZG7P7neDjIflcwKeqDxx9smTyFjf0o6SFzFGWTGrb0SPPylnGXGXKJGY/Hmp/S7Vky+QlamA1X/yFZMskaj+u6Iu/kIyZjPXjKvriLyRjJvr9eAn2YVfWTDRvh93HBkshaya1V6NRlZQ5E81+XPjkcyIzaXck3cWpeH9c6efSfhnuiyfIRCITiUwkMpHIRCITiUwkmzL5aEfz/yWjTZnE8b+6IRPF/xiNTMiETMgkiEwkMpHIRCITiUwkMpHIRGrVm+YC/5OzEfrJ5ckEAAAAAAAAAAAAAAAAsNx/Yr1IA6piPWIAAAAASUVORK5CYII=",
@@ -227,7 +227,7 @@ export const experiences = [
     role: "Software Engineer Intern",
     company: "Success Numbers",
     date: "Dec 2025 - Current",
-    desc: "Led the complete migration from Isar to Drift (SQLite) for a Flutter POS application, establishing strict relational data integrity for 25+ complex entities.Used a robust “Local-Wins” conflict resolution strategy and bi-directional synchronization, ensuring zero data loss during network outages. Optimized performance using Dart Isolates to offload heavy I/O, eliminating UI jank and resolving 50+ critical concurrency issues. Also Engineered a robust Data Import Service using AWS Lambda and TypeScript to enforce complex 60+ field schemas, optimizing S3 data architecture for improving client’s Middleware performance.",
+    desc: "Led the complete migration from Isar to Drift (SQLite) for a Flutter POS application, establishing strict relational data integrity for 25+ complex entities.Used a robust “Local-Wins” conflict resolution strategy and bi-directional synchronization, ensuring zero data loss during network outages. Also Engineered a robust Data Import Service using AWS Lambda and TypeScript to enforce complex 60+ field schemas, optimizing S3 data architecture for improving client’s Middleware performance.",
     skills: [
       "Flutter",
       "Docker",
@@ -247,9 +247,9 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Indian_Institute_of_Technology%2C_Patna.svg/1200px-Indian_Institute_of_Technology%2C_Patna.svg.png",
     school: "Indian Institute of Technology Patna",
     date: "Nov 2022 - Current",
-    grade: "7.168 CGPA",
+    grade: "7.2 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Mathematics and Computing at Indian Institute of Technology Patna. I have completed 6 semesters and have a CGPA of 7.08. I have taken courses in Discrete Mathematics, Python Programming, Financial Analysis, Data Structures, Algorithms, Data Science, TOC, Database Management Systems and Computer Architecture, among others. I am also a member of Cultural Fest Anwesha Web Developer Group, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - B.S, Mathematics and Computing",
+    degree: "Bachelor in Mathematics and Computing",
   },
   {
     id: 1,
@@ -371,6 +371,7 @@ export const projects = [
     webapp: "https://todos-0a2w.onrender.com/",
   },
 ];
+
 
 
 
