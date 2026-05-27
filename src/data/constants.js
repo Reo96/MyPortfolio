@@ -181,7 +181,7 @@ export const skills = [
       {
         name: "VS Code",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://iconlogovector.com/uploads/images/2024/04/lg-661dcdd59f379-Visual-Studio-Code.webp",
       },
       {
         name: "Google Colab",///
