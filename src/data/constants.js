@@ -222,7 +222,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/C510BAQGbwclgdLjzgg/company-logo_200_200/company-logo_200_200/0/1630573313536/success_numbers_logo?e=1781740800&v=beta&t=jsthwqxKskRzxoiW2VHwWb9c6IP2_ta8UUwlBqoh1XQ",
+    img: "https://sdn.signalhire.co/storage/company/9ffb/574d/5ffa/f6c3/539c/8641/da94/15e4.webp",
     role: "Software Engineer Intern",
     company: "Success Numbers",
     date: "Dec 2025 - Current",
@@ -247,7 +247,7 @@ export const education = [
     school: "Indian Institute of Technology Patna",
     date: "Nov 2022 - Current",
     grade: "7.2 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Mathematics and Computing at Indian Institute of Technology Patna. I have completed 6 semesters and have a CGPA of 7.08. I have taken courses in Discrete Mathematics, Python Programming, Financial Analysis, Data Structures, Algorithms, Data Science, TOC, Database Management Systems and Computer Architecture, among others. I am also a member of Cultural Fest Anwesha Web Developer Group, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I have completed Bachelor's degree in Mathematics and Computing at Indian Institute of Technology Patna. I have taken courses in Discrete Mathematics, Python Programming, Financial Analysis, Data Structures, Algorithms, Data Science, TOC, Database Management Systems and Computer Architecture, among others. I am also a member of Cultural Fest Anwesha Web Developer Group, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor in Mathematics and Computing",
   },
   {
