@@ -229,12 +229,12 @@ export const experiences = [
     desc: "PRM Pricing System (Full-Stack): Engineered an enterprise pricing administration platform using Spring Boot, implementing RBAC security modules and a high-performance React frontend with virtualized selectors to manage bulk store configurations. Middleware Integration Engine: Architected a resilient asynchronous webhook service using Node.js and AWS SQS, enabling fault-tolerant ingestion and processing of real-time transaction telemetry with automated recovery. Data Transformation & ERP Sync: Developed a sophisticated XML-to-JSON engine in TypeScript to synchronize POS data with Dynamics 365 ERP, hardening logic for complex return-linking and inventory reconciliation. Flutter POS Database Migration: Led a strategic transition from Isar to Drift (SQLite), enforcing relational integrity across 25+ entities and implementing (Local-Wins) bi-directional synchronization for offline reliability. System Hardening & Reliability: Standardized Spring Boot externalized configurations for multi-machine deployments and spearheaded a Type-Safety Initiative in React/TypeScript to eliminate runtime exceptions. Technologies: Java (Spring Boot), TypeScript (Node.js/React), Flutter, AWS (SQS/Lambda), SQL, XML.",
     skills: [
       "Flutter",
-      "React"
+      "React",
       "Drift",
       "AWS S3, Lambda, SQS",
       "TypeScript",
       "Java (Spring Boot)",
-      "Docker"
+      "Docker",
     ],
     ///////////////// TBC
     doc: "https://drive.google.com/file/d/1pghsfe7WLh-LUDccl7bU7v50w9jEP9uT/view?usp=drive_link",
